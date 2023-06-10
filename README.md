@@ -4,10 +4,9 @@ This repository contains a list of useful git aliases, which can be added to you
 
 ## Usage
 
-```bash
 ### Add aliases to the `gitconfig-alias.json` file in this repository
 
-for example:
+for example, config the alias of `checkout` to `co` like below:
 
 ```json
 {
