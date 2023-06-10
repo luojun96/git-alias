@@ -1,0 +1,32 @@
+{
+    "alias": [
+        {
+            "name": "co",
+            "command": "checkout"
+        },
+        {
+            "name": "cob",
+            "command": "checkout -b"
+        },
+        {
+            "name": "del",
+            "command": "branch -D"
+        },
+        {
+            "name": "st",
+            "command": "status -sb"
+        },
+        {
+            "name": "ci",
+            "command": "commit -m"
+        },
+        {
+            "name": "br",
+            "command": "branch -a --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate"
+        },
+        {
+            "name": "lg",
+            "command": "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
+        }
+    ]
+}
