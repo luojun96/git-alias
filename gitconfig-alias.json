@@ -18,7 +18,7 @@
         },
         {
             "name": "ci",
-            "command": "commit -m"
+            "command": "commit"
         },
         {
             "name": "br",
