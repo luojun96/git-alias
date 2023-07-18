@@ -4,7 +4,7 @@ This repository contains a list of useful git aliases, which can be added to you
 
 ## Requirements
 
-- jq-1.6
+- [jq-1.6](https://jqlang.github.io/jq/)
 
 ## Usage
 
