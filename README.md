@@ -2,6 +2,10 @@
 
 This repository contains a list of useful git aliases, which can be added to your .gitconfig file. And we provide a user-friendly script to help you add these aliases to your .gitconfig file.
 
+## Requirements
+
+- jq
+
 ## Usage
 
 ### Add aliases to the `gitconfig-alias.json` file in this repository
